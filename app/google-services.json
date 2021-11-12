@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "736021594696",
+    "firebase_url": "https://salvage-68ab3.firebaseio.com",
+    "project_id": "salvage-68ab3",
+    "storage_bucket": "salvage-68ab3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736021594696:android:a76844cb850c74fd014e7d",
+        "android_client_info": {
+          "package_name": "com.example.salvage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736021594696-lhti9eifbsu6gq2vvj5pshju1i25snuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZR7keXwOezV9Xxro_12qL2ru5-XOphcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736021594696-lhti9eifbsu6gq2vvj5pshju1i25snuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
